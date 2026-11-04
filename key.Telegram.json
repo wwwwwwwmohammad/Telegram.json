@@ -42,12 +42,12 @@
     "instagram": "https://instagram.com/"
   },
   "promo": {
-    "enabled": true,
+    "enabled": false,
     "text": "🛒 Morning",
     "url": "https://t.me/grassmohammad"
   },
   "update": {
-    "available": false,
+    "available": true,
     "force": false,
     "version": "3.0",
     "url": "https://example.com/update.apk"
