@@ -42,8 +42,8 @@
     "instagram": "https://instagram.com/"
   },
   "promo": {
-    "enabled": false,
-    "text": "🛒 BUY CHEAP KEYS - 50% OFF",
+    "enabled": true,
+    "text": "🛒 Morning",
     "url": "https://t.me/grassmohammad"
   },
   "update": {
@@ -118,7 +118,7 @@
       "type": "date",
       "interval": "3000000d",
       "notify": true,
-      "value": "2020-05-01",
+      "value": "2047-05-01",
       "toast": "🪪ID",
       "devices": [
         "1e676b4a583054ed",
