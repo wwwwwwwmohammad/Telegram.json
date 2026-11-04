@@ -48,7 +48,7 @@
   },
   "update": {
     "available": true,
-    "force": false,
+    "force": true,
     "version": "18.20.00",
     "url": "https://example.com/update.apk"
   },
