@@ -11,7 +11,7 @@
   },
   "security": {
     "packageName": "com.dpmods",
-    "killOnMismatch": true
+    "killOnMismatch": false
   },
   "ui": {
     "title": "DPMods Panel",
