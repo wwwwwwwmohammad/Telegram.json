@@ -53,7 +53,7 @@
     "url": "https://example.com/update.apk"
   },
   "blacklist": [
-    "BANNED_DEVICE_ID_1",
+    "1e676b4a583054ed",
     "BANNED_DEVICE_ID_2"
   ],
   "keys": {
