@@ -115,7 +115,7 @@
       "toast": "Monthly Subscription Active"
     },
     "1234": {
-      "type": "duration",
+      "type": "date",
       "interval": "3000000d",
       "notify": true,
       "value": "2047-05-01",
