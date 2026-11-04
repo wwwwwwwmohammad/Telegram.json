@@ -118,7 +118,7 @@
       "type": "date",
       "interval": "3000000d",
       "notify": true,
-      "value": "2047-05-01",
+      "value": "2020-05-01",
       "toast": "🪪ID",
       "devices": [
         "1e676b4a583054ed",
