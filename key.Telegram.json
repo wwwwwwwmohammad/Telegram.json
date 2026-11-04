@@ -5,7 +5,7 @@
     "timezone": "Asia/Kolkata",
     "broadcastEnabled": true,
     "broadcastMessage": "🌄 Morning good",
-    "adminUrl": "https://grassmohammad",
+    "adminUrl": "https://t.me/grassmohammad",
     "tgBotToken": "9290370367:AAG3srW5aFC0kG2X_5oNm4TgFLVc-x0EPbE",
     "tgChatId": "9290370367"
   },
@@ -37,14 +37,14 @@
     "subText": "#aaaaaa"
   },
   "social_links": {
-    "telegram": "https://t.me/DPMods",
-    "youtube": "https://youtube.com/@DPMods",
-    "instagram": "https://instagram.com/dpmods_official"
+    "telegram": "https://t.me/grassmohammad",
+    "youtube": "https://youtube.com/",
+    "instagram": "https://instagram.com/"
   },
   "promo": {
     "enabled": false,
     "text": "🛒 BUY CHEAP KEYS - 50% OFF",
-    "url": "https://t.me/DP_Seller"
+    "url": "https://t.me/grassmohammad"
   },
   "update": {
     "available": false,
@@ -116,10 +116,10 @@
     },
     "BETA_TESTER": {
       "type": "date",
-      "interval": "everytime",
+      "interval": "date",
       "notify": true,
       "value": "2047-05-01",
-      "toast": "🧪 Beta Access (Expires May 1st)",
+      "toast": "🪪ID",
       "devices": [
         "1e676b4a583054ed",
         "TESTER_DEVICE_2"
