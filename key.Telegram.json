@@ -25,14 +25,14 @@
     "particleColor2": "#0000ff",
     "socials": {
       "telegram": true,
-      "youtube": true,
-      "instagram": true
+      "youtube": false,
+      "instagram": false
     }
   },
   "theme": {
     "useCustom": true,
-    "background": "#050505",
-    "accent": "#00e5ff",
+    "background": "#ca272727",
+    "accent": "#ff00c948",
     "text": "#ffffff",
     "subText": "#aaaaaa"
   },
