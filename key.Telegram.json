@@ -114,7 +114,7 @@
       "notify": true,
       "toast": "Monthly Subscription Active"
     },
-    "BETA_TESTER": {
+    "1234": {
       "type": "date",
       "interval": "date",
       "notify": true,
