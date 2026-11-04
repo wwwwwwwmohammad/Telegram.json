@@ -14,10 +14,10 @@
     "killOnMismatch": false
   },
   "ui": {
-    "title": "DPMods Panel",
+    "title": "رمز عبور(1234)",
     "subtitle": "Premium External Mod",
-    "loginBtn": "Login",
-    "adminBtn": "Get Key",
+    "loginBtn": "ورود",
+    "adminBtn": "مدیر تلگرام کلید",
     "errorTitle": "Server Error",
     "errorSub": "Cannot connect to authentication server.",
     "enableParticles": true,
