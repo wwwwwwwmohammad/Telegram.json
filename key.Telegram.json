@@ -4,10 +4,10 @@
     "silentCheck": true,
     "timezone": "Asia/Kolkata",
     "broadcastEnabled": true,
-    "broadcastMessage": "🔥 New Season Update is Live! Check Telegram.",
-    "adminUrl": "https://t.me/DPMods",
+    "broadcastMessage": "🌄 Morning good",
+    "adminUrl": "https://grassmohammad",
     "tgBotToken": "9290370367:AAG3srW5aFC0kG2X_5oNm4TgFLVc-x0EPbE",
-    "tgChatId": "8190327265"
+    "tgChatId": "9290370367"
   },
   "security": {
     "packageName": "com.dpmods",
