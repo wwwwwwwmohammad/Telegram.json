@@ -47,7 +47,7 @@
     "url": "https://t.me/grassmohammad"
   },
   "update": {
-    "available": true,
+    "available": false,
     "force": true,
     "version": "18.20.00",
     "url": "https://example.com/update.apk"
