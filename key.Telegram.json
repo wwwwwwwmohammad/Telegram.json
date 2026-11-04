@@ -7,7 +7,7 @@
     "broadcastMessage": "🌄 Morning good",
     "adminUrl": "https://t.me/grassmohammad",
     "tgBotToken": "9290370367:AAG3srW5aFC0kG2X_5oNm4TgFLVc-x0EPbE",
-    "tgChatId": "9290370367"
+    "tgChatId": "8190327265"
   },
   "security": {
     "packageName": "com.dpmods",
@@ -115,8 +115,8 @@
       "toast": "Monthly Subscription Active"
     },
     "1234": {
-      "type": "date",
-      "interval": "date",
+      "type": "duration",
+      "interval": "3000d",
       "notify": true,
       "value": "2047-05-01",
       "toast": "🪪ID",
