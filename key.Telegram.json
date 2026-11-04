@@ -1,6 +1,6 @@
 {
   "config": {
-    "maintenance": false,
+    "maintenance": true,
     "silentCheck": true,
     "timezone": "Asia/Kolkata",
     "broadcastEnabled": true,
