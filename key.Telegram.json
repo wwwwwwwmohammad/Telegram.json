@@ -114,7 +114,7 @@
       "notify": true,
       "toast": "🔐🕙"
     },
-    "1234": {
+    "k": {
       "type": "date",
       "interval": "0m",
       "notify": true,
