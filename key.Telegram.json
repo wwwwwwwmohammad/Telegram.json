@@ -3,7 +3,7 @@
     "maintenance": false,
     "silentCheck": true,
     "timezone": "Asia/iran",
-    "broadcastEnabled": true,
+    "broadcastEnabled": false,
     "broadcastMessage": "🌄 Morning good",
     "adminUrl": "https://t.me/grassmohammad",
     "tgBotToken": "9290370367:AAG3srW5aFC0kG2X_5oNm4TgFLVc-x0EPbE",
