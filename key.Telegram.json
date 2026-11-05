@@ -2,7 +2,7 @@
   "config": {
     "maintenance": false,
     "silentCheck": true,
-    "timezone": "Asia/Kolkata",
+    "timezone": "Asia/iran",
     "broadcastEnabled": true,
     "broadcastMessage": "🌄 Morning good",
     "adminUrl": "https://t.me/grassmohammad",
@@ -48,7 +48,7 @@
   },
   "update": {
     "available": false,
-    "force": true,
+    "force": false,
     "version": "12.0.0",
     "url": "https://example.com/update.apk"
   },
@@ -61,27 +61,27 @@
       "type": "lifetime",
       "interval": "1d",
       "notify": true,
-      "toast": "💛 Welcome Gold VIP Member!"
+      "toast": "🔐🕙"
     },
     "VIP_SILVER": {
       "type": "lifetime",
       "interval": "12h",
       "notify": true,
-      "toast": "🥈 Welcome Silver Member!"
+      "toast": "🥈🔐🕙"
     },
     "TRIAL_1HOUR": {
       "type": "duration",
       "value": "1h",
       "interval": "everytime",
       "notify": true,
-      "toast": "⏳ 1 Hour Trial Started"
+      "toast": "⏳🔐🕙"
     },
     "TRIAL_1DAY": {
       "type": "duration",
       "value": "1d",
       "interval": "everytime",
       "notify": true,
-      "toast": "📅 24 Hour Trial Active"
+      "toast": "📅🔐🕙"
     },
     "YOUTUBER_KEY": {
       "type": "lifetime",
@@ -91,28 +91,28 @@
       ],
       "interval": "1w",
       "notify": false,
-      "toast": "🎥 Welcome Content Creator!"
+      "toast": "🔐🕙"
     },
     "RESELLER_PANEL": {
       "type": "date",
       "value": "2030-12-31",
       "interval": "1d",
       "notify": true,
-      "toast": "🛒 Reseller Access Granted"
+      "toast": "🔐🕙"
     },
     "WEEKLY_SUB": {
       "type": "duration",
       "value": "7d",
       "interval": "6h",
       "notify": true,
-      "toast": "Weekly Subscription Active"
+      "toast": "🔐🕙"
     },
     "MONTHLY_SUB": {
       "type": "duration",
       "value": "30d",
       "interval": "1d",
       "notify": true,
-      "toast": "Monthly Subscription Active"
+      "toast": "🔐🕙"
     },
     "1234": {
       "type": "date",
@@ -131,21 +131,21 @@
         "YOUR_PERSONAL_DEVICE_ID"
       ],
       "notify": false,
-      "toast": "👑 Welcome Owner"
+      "toast": "🔐🕙"
     },
     "DPMods": {
       "type": "duration",
       "interval": "everytime",
       "notify": true,
       "value": "1h",
-      "toast": "🛒 Reseller Access Granted"
+      "toast": "🔐🕙"
     },
     "atul": {
       "type": "date",
       "interval": "everytime",
       "notify": true,
       "value": "2025-11-25",
-      "toast": "Today Key"
+      "toast": "🔐🕙"
     }
   }
 }
