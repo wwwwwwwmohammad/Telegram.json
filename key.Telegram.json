@@ -116,7 +116,7 @@
     },
     "1234": {
       "type": "date",
-      "interval": "3000000d",
+      "interval": "0m",
       "notify": true,
       "value": "2047-05-01",
       "toast": "🪪ID",
