@@ -114,9 +114,9 @@
       "notify": true,
       "toast": "🔐🕙"
     },
-    "k": {
+    "1234": {
       "type": "date",
-      "interval": "30000000d",
+      "interval": "300000d",
       "notify": true,
       "value": "2047-05-01",
       "toast": "🪪ID",
