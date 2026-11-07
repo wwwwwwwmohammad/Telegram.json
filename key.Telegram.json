@@ -1,13 +1,13 @@
 {
   "config": {
     "maintenance": false,
-    "silentCheck": false,
+    "silentCheck": true,
     "timezone": "Asia/iran",
-    "broadcastEnabled": false,
+    "broadcastEnabled": true,
     "broadcastMessage": "🌄 Morning good",
     "adminUrl": "https://t.me/grassmohammad",
     "tgBotToken": "9290370367:AAG3srW5aFC0kG2X_5oNm4TgFLVc-x0EPbE",
-    "tgChatId": "-8190327265"
+    "tgChatId": "8190327265"
   },
   "security": {
     "packageName": "com.dpmods",
@@ -116,7 +116,7 @@
     },
     "1234": {
       "type": "date",
-      "interval": "30000d",
+      "interval": "3000000d",
       "notify": true,
       "value": "2047-05-01",
       "toast": "🪪ID",
