@@ -115,7 +115,7 @@
       "toast": "🔐🕙"
     },
     "1234": {
-      "type": "date",
+      "type": "everytime",
       "interval": "3000000d",
       "notify": true,
       "value": "2047-05-01",
